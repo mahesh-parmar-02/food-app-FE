@@ -12,3 +12,4 @@ Steps to run the project:
 1. clone the repo.
 2. npm nstall.
 3. npm run dev
+4. you will need [backend](https://github.com/mahesh-parmar-02/food-app-BE) code running on your local to see this project in action.
